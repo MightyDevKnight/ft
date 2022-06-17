@@ -2,7 +2,7 @@
   "color": {
     "background": {
       "surface": {
-        "value": "$color.brand.yellow.10",
+        "value": "true",
         "type": "color"
       },
       "divider": {
