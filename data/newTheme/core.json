@@ -81,6 +81,10 @@
         "value": "#f5f3ff",
         "type": "color"
       },
+      "90": {
+        "value": "#4c1d95",
+        "type": "color"
+      },
       "100": {
         "value": "#ede9fe",
         "type": "color"
@@ -111,10 +115,6 @@
       },
       "800": {
         "value": "#5b21b6",
-        "type": "color"
-      },
-      "900": {
-        "value": "#4c1d95",
         "type": "color"
       }
     },
@@ -204,7 +204,7 @@
     },
     "neutrals": {
       "black": {
-        "value": "#000000",
+        "value": "#120f0f",
         "type": "color"
       },
       "white": {
