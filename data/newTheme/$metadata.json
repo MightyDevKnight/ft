@@ -1,0 +1,24 @@
+{
+  "tokenSetOrder": [
+    "alert-banner",
+    "avatar",
+    "body",
+    "button",
+    "checkbox",
+    "code",
+    "core",
+    "detail",
+    "divider",
+    "field-label",
+    "heading",
+    "help-text",
+    "icon-button",
+    "link",
+    "menu-item",
+    "radio",
+    "semantic",
+    "switch",
+    "tag",
+    "text-field"
+  ]
+}
